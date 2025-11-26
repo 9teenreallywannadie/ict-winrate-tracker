@@ -1,17 +1,17 @@
 {
   "1h": {
-    "total": 40,
+    "total": 0,
     "hits": 0,
-    "winrate": 0.0
+    "winrate": 0
   },
   "4h": {
-    "total": 22,
+    "total": 0,
     "hits": 0,
-    "winrate": 0.0
+    "winrate": 0
   },
   "1d": {
-    "total": 41,
+    "total": 0,
     "hits": 0,
-    "winrate": 0.0
+    "winrate": 0
   }
 }
